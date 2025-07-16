@@ -1,0 +1,200 @@
+{
+  "session_id": "20250717_051149_180dd490",
+  "start_time": "2025-07-17T05:11:49.673155",
+  "end_time": "2025-07-17T05:12:06.623545",
+  "language_code": "ja-JP",
+  "audio_bytes": 514830,
+  "chunks": 17161,
+  "audio_file": "../audio/20250717_051149_180dd490.wav",
+  "results": [
+    {
+      "timestamp": "2025-07-17T05:11:51.703317",
+      "text": "どう",
+      "translation": "copper",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:11:51.782435",
+      "text": "どうも",
+      "translation": "Thank you",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:11:51.863876",
+      "text": "どうもこんにちは",
+      "translation": "Hello everyone",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:11:53.130325",
+      "text": "どうもこんにちは",
+      "translation": "Hello everyone",
+      "confidence": 0.9624955058097839,
+      "final": true
+    },
+    {
+      "timestamp": "2025-07-17T05:11:54.935458",
+      "text": " なんか",
+      "translation": " Something",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:11:55.250225",
+      "text": " なんか あの",
+      "translation": " Something like that",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:11:55.528554",
+      "text": " なんか",
+      "translation": " Something",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:11:55.599147",
+      "text": " あの",
+      "translation": " that",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:11:55.843161",
+      "text": " なんか あの",
+      "translation": " Something like that",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:11:56.443147",
+      "text": " なんか あの",
+      "translation": " Something like that",
+      "confidence": 0.19292965531349182,
+      "final": true
+    },
+    {
+      "timestamp": "2025-07-17T05:11:57.152825",
+      "text": "海",
+      "translation": "sea",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:11:57.347480",
+      "text": "海峡",
+      "translation": "Strait",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:11:57.466588",
+      "text": "海峡の",
+      "translation": "Strait",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:11:57.570847",
+      "text": "海峡のされ",
+      "translation": "The Strait",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:11:57.699629",
+      "text": "海峡のされ方",
+      "translation": "How the Straits are Handled",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:11:57.846710",
+      "text": "海峡のされ方が",
+      "translation": "The way the straits are handled",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:11:58.100433",
+      "text": "海峡のされ方が若干",
+      "translation": "The way the strait is shaped is a little different.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:11:58.420925",
+      "text": "海峡のされ方が若干おか",
+      "translation": "The way the strait is laid out is a little strange.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:11:58.522611",
+      "text": "海峡のされ方が若干おかしい",
+      "translation": "The way the straits are drawn is a bit odd.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:11:58.714126",
+      "text": "海峡のされ方が若干おかしいよう",
+      "translation": "The way the straits are laid out seems a bit odd.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:11:58.907984",
+      "text": "海峡のされ方が若干おかしいような",
+      "translation": "The way the straits are laid out seems a bit odd.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:11:59.612857",
+      "text": "海峡のされ方が若干おかしいような気",
+      "translation": "I feel like the way the straits are laid out is a bit odd.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:11:59.722967",
+      "text": "海峡のされ方が若干おかしいような気が",
+      "translation": "I feel like the way the straits are laid out is a bit odd.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:11:59.879728",
+      "text": "海峡のされ方が若干おかしいような気がする",
+      "translation": "I think the way the straits are laid out is a bit odd.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:11:59.998960",
+      "text": "海峡のされ方が若干おかしいような気がするんです",
+      "translation": "I think there's something a little odd about the way the straits are laid out.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:12:00.159560",
+      "text": "海峡のされ方が若干おかしいような気がするんですけど",
+      "translation": "I think the way the straits are drawn is a bit odd.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:12:01.228798",
+      "text": "海峡のされ方が若干おかしいような気がするんですけど",
+      "translation": "I think the way the straits are drawn is a bit odd.",
+      "confidence": 0.9677479863166809,
+      "final": true
+    }
+  ]
+}

@@ -1,0 +1,641 @@
+{
+  "session_id": "20250717_045232_ae1e4282",
+  "start_time": "2025-07-17T04:52:32.576439",
+  "end_time": "2025-07-17T04:53:11.093726",
+  "language_code": "ja-JP",
+  "audio_bytes": 1202610,
+  "chunks": 40087,
+  "audio_file": "../audio/20250717_045232_ae1e4282.wav",
+  "results": [
+    {
+      "timestamp": "2025-07-17T04:52:34.705530",
+      "text": "どう",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:35.013227",
+      "text": "どうも",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:35.501806",
+      "text": "どうもこんにちは",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:36.097185",
+      "text": "どうもこんにちは",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:36.808583",
+      "text": "どうもこんにちは",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:36.808786",
+      "text": " 私",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:37.107042",
+      "text": "どうもこんにちは私の名前",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:37.304078",
+      "text": "どうもこんにちは私の名前は",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:37.912008",
+      "text": "どうもこんにちは私の名前は",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:38.956701",
+      "text": "どうもこんにちは私の名前は",
+      "translation": "Hello my name is",
+      "confidence": 0.9572644233703613,
+      "final": true
+    },
+    {
+      "timestamp": "2025-07-17T04:52:39.476489",
+      "text": " 岩",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:39.665174",
+      "text": " 岩川",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:39.766111",
+      "text": " 岩川です",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:40.791777",
+      "text": " 岩川です",
+      "translation": " This is Iwakawa",
+      "confidence": 0.4906272888183594,
+      "final": true
+    },
+    {
+      "timestamp": "2025-07-17T04:52:43.968716",
+      "text": " どう",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:44.064579",
+      "text": " どうに",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:44.166742",
+      "text": " どうにか",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:44.262496",
+      "text": " どうにかね",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:44.870751",
+      "text": " どうにかね",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:45.983791",
+      "text": " どうにかね",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:45.983964",
+      "text": " 頑張っ",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:46.065918",
+      "text": " どうにかね",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:46.065999",
+      "text": " 頑張って",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:46.272694",
+      "text": " どうにかね",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:46.272866",
+      "text": " 頑張って生き",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:46.375536",
+      "text": " どうにかね",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:46.375694",
+      "text": " 頑張って生きて",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:46.476522",
+      "text": " どうにかね",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:46.476795",
+      "text": " 頑張って生きていき",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:46.565528",
+      "text": " どうにかね",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:46.565651",
+      "text": " 頑張って生きていきたい",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:46.663835",
+      "text": " どうにかね",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:46.664013",
+      "text": " 頑張って生きていきたいな",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:46.768598",
+      "text": " どうにかね",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:46.768778",
+      "text": " 頑張って生きていきたいなと",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:46.875616",
+      "text": " どうにかね",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:46.875804",
+      "text": " 頑張って生きていきたいなと思っ",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:47.187162",
+      "text": " どうにかね",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:47.187404",
+      "text": " 頑張って生きていきたいなと思ってるんです",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:47.373896",
+      "text": " どうにかね",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:47.374058",
+      "text": " 頑張って生きていきたいなと思ってるんですが",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:47.959166",
+      "text": " どうにかね 頑張って生きていきたいなと思ってるんですが",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:48.633534",
+      "text": " どうにかね 頑張って生きていきたいなと思ってるんですが",
+      "translation": " I want to try my best to live somehow.",
+      "confidence": 0.9227868914604187,
+      "final": true
+    },
+    {
+      "timestamp": "2025-07-17T04:52:51.372175",
+      "text": "と",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:51.569166",
+      "text": " とは",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:51.682130",
+      "text": "とはいえ",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:52.262289",
+      "text": "とはいえ",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:52.468308",
+      "text": "とはいえ",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:52.468507",
+      "text": " まあ",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:52.774716",
+      "text": "とはいえまあなんか",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:52.876947",
+      "text": "とはいえまあなんかちょっと",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:53.463736",
+      "text": "とはいえまあなんかちょっと",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:54.306390",
+      "text": "とはいえまあなんかちょっと",
+      "translation": "However, somehow",
+      "confidence": 0.6021945476531982,
+      "final": true
+    },
+    {
+      "timestamp": "2025-07-17T04:52:55.672652",
+      "text": "お",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:55.679987",
+      "text": "お金",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:55.770101",
+      "text": "お金が",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:55.877710",
+      "text": "お金がなく",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:55.979339",
+      "text": "お金がなくて",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:56.075253",
+      "text": "お金がなくてね",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:56.664682",
+      "text": "お金がなくてね",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:56.978792",
+      "text": "お金がなくてね",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:56.979018",
+      "text": " もう",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:57.169384",
+      "text": "お金がなくてね",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:57.169544",
+      "text": " もうちょっと",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:57.482446",
+      "text": "お金がなくてね",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:57.482710",
+      "text": " もうちょっと楽",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:57.573417",
+      "text": "お金がなくてね",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:57.573590",
+      "text": " もうちょっと楽しく",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:57.870988",
+      "text": "お金がなくてね",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:57.871209",
+      "text": " もうちょっと楽しく生活",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:58.069260",
+      "text": "お金がなくてね",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:58.069535",
+      "text": " もうちょっと楽しく生活でき",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:58.170395",
+      "text": "お金がなくてね",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:58.170504",
+      "text": " もうちょっと楽しく生活できたら",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:58.494140",
+      "text": "お金がなくてね",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:58.494214",
+      "text": " もうちょっと楽しく生活できたら嬉しい",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:58.681042",
+      "text": "お金がなくてね",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:58.681179",
+      "text": " もうちょっと楽しく生活できたら嬉しいんです",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:58.779298",
+      "text": "お金がなくてね",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:58.779401",
+      "text": " もうちょっと楽しく生活できたら嬉しいんですけど",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:58.981923",
+      "text": "お金がなくてね",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:58.981981",
+      "text": " もうちょっと楽しく生活できたら嬉しいんですけどね",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:52:59.576974",
+      "text": "お金がなくてね もうちょっと楽しく生活できたら嬉しいんですけどね",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:53:00.314029",
+      "text": "お金がなくてね もうちょっと楽しく生活できたら嬉しいんですけどね",
+      "translation": "I don&#39;t have much money, so I wish I could live a little more happily.",
+      "confidence": 0.9471021890640259,
+      "final": true
+    },
+    {
+      "timestamp": "2025-07-17T04:53:04.793506",
+      "text": " まあ",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:53:04.890739",
+      "text": " まあ そんな",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:53:05.102623",
+      "text": " まあ そんなもん",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:53:05.193443",
+      "text": " まあ そんなもんです",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:53:05.387956",
+      "text": " まあ そんなもんですよ",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:53:06.329375",
+      "text": " まあ そんなもんですよ",
+      "translation": " Well, that&#39;s how it is.",
+      "confidence": 0.47979021072387695,
+      "final": true
+    }
+  ]
+}

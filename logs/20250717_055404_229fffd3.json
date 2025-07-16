@@ -1,0 +1,802 @@
+{
+  "session_id": "20250717_055404_229fffd3",
+  "start_time": "2025-07-17T05:54:04.159325",
+  "end_time": "2025-07-17T05:54:43.705785",
+  "language_code": "ja-JP",
+  "audio_bytes": 1250430,
+  "chunks": 41681,
+  "audio_file": "../audio/20250717_055404_229fffd3.wav",
+  "results": [
+    {
+      "timestamp": "2025-07-17T05:54:06.432043",
+      "text": "本日",
+      "translation": "今天",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:06.723061",
+      "text": "本日は",
+      "translation": "今天",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:06.987875",
+      "text": "本日は オープ",
+      "translation": "今天是开幕式",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:07.139610",
+      "text": "本日は オープン",
+      "translation": "今天开放",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:07.318514",
+      "text": "本日は オープンキャン",
+      "translation": "今天是开放营",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:07.491617",
+      "text": "本日は オープンキャンパ",
+      "translation": "今天是开放营",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:07.659600",
+      "text": "本日は  オープンキャンパス",
+      "translation": "今天是校园开放日",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:07.972347",
+      "text": "本日は  オープンキャンパスに",
+      "translation": "今天是校园开放日",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:08.343136",
+      "text": "本日は  オープンキャンパスに来て",
+      "translation": "今天，我来到了开放校园。",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:08.594874",
+      "text": "本日は  オープンキャンパスに来ていただい",
+      "translation": "感谢大家今天来到我们的开放校园。",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:08.781945",
+      "text": "本日は  オープンキャンパスに来ていただいて",
+      "translation": "感谢大家今天来到我们的开放校园。",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:09.114249",
+      "text": "本日は  オープンキャンパスに来ていただいてありがとう",
+      "translation": "感谢大家今天来到我们的开放校园。",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:09.322352",
+      "text": "本日は  オープンキャンパスに来ていただいてありがとうござい",
+      "translation": "感谢大家今天来到我们的开放校园。",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:09.574083",
+      "text": "本日は  オープンキャンパスに来ていただいてありがとうございます",
+      "translation": "感谢大家今天来到我们的开放校园。",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:10.512972",
+      "text": "本日は オープンキャンパスに来ていただいてありがとうございます",
+      "translation": "感谢大家今天来到我们的开放校园。",
+      "confidence": 0.8319689035415649,
+      "final": true
+    },
+    {
+      "timestamp": "2025-07-17T05:54:12.831966",
+      "text": " あの",
+      "translation": " 那",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:12.951066",
+      "text": " あのこれ",
+      "translation": " 诸如此类",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:13.291627",
+      "text": " あのこれ 中国",
+      "translation": " 那个中国",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:13.699318",
+      "text": " あのこれ  中国語",
+      "translation": " 那和那中国人",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:13.895018",
+      "text": " あのこれ  中国語を",
+      "translation": " 那和中文",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:14.068310",
+      "text": " あのこれ  中国語を伝",
+      "translation": " 那和那中国人",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:14.235783",
+      "text": " あのこれ  中国語を伝わって",
+      "translation": " 通过汉语传播的这一切",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:14.394148",
+      "text": " あのこれ  中国語を伝わっています",
+      "translation": " 这和那都是用中文传递的",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:14.589931",
+      "text": " あのこれ  中国語を伝わっていますでしょう",
+      "translation": " 嗯，这是在传达中文吧？",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:14.808211",
+      "text": " あのこれ  中国語を伝わっていますでしょうか",
+      "translation": " 你能用中文解释一下吗？",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:15.093001",
+      "text": " あのこれ 中国語を伝わっていますでしょうか  あの",
+      "translation": " 你懂中文吗？",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:15.430703",
+      "text": " あのこれ 中国語を伝わっていますでしょうか  あの僕",
+      "translation": " 你懂中文吗？",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:16.107490",
+      "text": " あのこれ 中国語を伝わっていますでしょうか あの  僕は",
+      "translation": " 你懂中文吗？",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:16.316857",
+      "text": " あのこれ 中国語を伝わっていますでしょうか あの  僕はちょっと",
+      "translation": " 你能听懂中文吗？我有点",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:16.493655",
+      "text": " あのこれ 中国語を伝わっていますでしょうか あの  僕はちょっと中国",
+      "translation": " 你听得懂中文吗？我中文不太好。",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:16.839544",
+      "text": " あのこれ 中国語を伝わっていますでしょうか あの 僕はちょっと  中国語",
+      "translation": " 你能给我解释一下中文吗？我的中文说得不太好。",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:17.014642",
+      "text": " あのこれ 中国語を伝わっていますでしょうか あの  僕はちょっと中国語わかん",
+      "translation": " 你能用中文解释一下吗？我不太懂中文。",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:17.207857",
+      "text": " あのこれ 中国語を伝わっていますでしょうか あの  僕はちょっと中国語わかんない",
+      "translation": " 你能用中文解释一下吗？我不太懂中文。",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:17.398994",
+      "text": " あのこれ 中国語を伝わっていますでしょうか あの  僕はちょっと中国語わかんないんで",
+      "translation": " 你能用中文解释一下吗？我不太懂中文。",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:17.596694",
+      "text": " あのこれ 中国語を伝わっていますでしょうか あの  僕はちょっと中国語わかんないんで あの",
+      "translation": " 你能用中文解释一下吗？我不太懂中文。",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:17.795113",
+      "text": " あのこれ 中国語を伝わっていますでしょうか あの 僕はちょっと中国語わかんないんで  あの",
+      "translation": " 你能用中文解释一下吗？我不太懂中文。",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:17.980306",
+      "text": " あのこれ 中国語を伝わっていますでしょうか あの  僕はちょっと中国語わかんないんであの正",
+      "translation": " 你能用中文解释一下吗？我不太懂中文。",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:18.189263",
+      "text": " あのこれ 中国語を伝わっていますでしょうか あの 僕はちょっと中国語わかんないんであの  正しい",
+      "translation": " 我不知道我是否能听懂中文。我不太懂中文。",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:18.328264",
+      "text": " あのこれ 中国語を伝わっていますでしょうか あの 僕はちょっと中国語わかんないんであの  正しいか",
+      "translation": " 你能用中文解释一下吗？我不太懂中文，这样解释对吗？",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:18.615545",
+      "text": " あのこれ 中国語を伝わっていますでしょうか あの 僕はちょっと中国語わかんないんであの  正しいかどう",
+      "translation": " 我不知道这是否表达了中文。我不太懂中文，所以不确定是否正确。",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:18.803758",
+      "text": " あのこれ 中国語を伝わっていますでしょうか あの 僕はちょっと中国語わかんないんであの  正しいかどうか",
+      "translation": " 我不知道我能不能用中文表达清楚。我不太懂中文，所以不确定是否正确。",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:18.979694",
+      "text": " あのこれ 中国語を伝わっていますでしょうか あの 僕はちょっと中国語わかんないんであの  正しいかどうかわかん",
+      "translation": " 我不知道这是否表达了中文。我不太懂中文，所以我不知道这是否正确。",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:19.148530",
+      "text": " あのこれ 中国語を伝わっていますでしょうか あの 僕はちょっと中国語わかんないんであの  正しいかどうかわかんない",
+      "translation": " 你能用中文解释一下吗？我不太懂中文，所以不知道是否正确。",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:19.391837",
+      "text": " あのこれ 中国語を伝わっていますでしょうか あの 僕はちょっと中国語わかんないんであの  正しいかどうかわかんないんです",
+      "translation": " 我不知道这是否表达了中文。我不太懂中文，所以我不知道这是否正确。",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:19.634545",
+      "text": " あのこれ 中国語を伝わっていますでしょうか あの 僕はちょっと中国語わかんないんであの  正しいかどうかわかんないんですが",
+      "translation": " 你能用中文解释一下吗？我不太懂中文，所以不知道是否正确。",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:19.844475",
+      "text": " あのこれ 中国語を伝わっていますでしょうか あの 僕はちょっと中国語わかんないんであの 正しいかどうかわかんないんですが",
+      "translation": " 你能用中文解释一下吗？我不太懂中文，所以不知道是否正确。",
+      "confidence": 0.7726547718048096,
+      "final": true
+    },
+    {
+      "timestamp": "2025-07-17T05:54:20.245711",
+      "text": "いい",
+      "translation": "好的",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:20.345144",
+      "text": " いい感じ",
+      "translation": " 看起来不错",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:20.452492",
+      "text": " いい感じです",
+      "translation": " 感觉很好",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:20.648492",
+      "text": " いい感じですか",
+      "translation": " 感觉好吗？",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:21.188024",
+      "text": " いい感じですか  はい",
+      "translation": " 感觉好吗？是的",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:21.641694",
+      "text": " いい感じですか はい  ありがとう",
+      "translation": " 感觉好些了吗？好的，谢谢。",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:21.842007",
+      "text": " いい感じですか はい  ありがとうござい",
+      "translation": " 感觉好些了吗？好的，谢谢。",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:22.117926",
+      "text": " いい感じですか はい  ありがとうございます",
+      "translation": " 感觉好些了吗？好的，谢谢。",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:23.059359",
+      "text": " いい感じですか はい ありがとうございます",
+      "translation": " 感觉好些了吗？好的，谢谢。",
+      "confidence": 0.7385344505310059,
+      "final": true
+    },
+    {
+      "timestamp": "2025-07-17T05:54:24.250514",
+      "text": " そう",
+      "translation": " 是的",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:24.370801",
+      "text": " そうです",
+      "translation": " 这是正确的",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:24.819521",
+      "text": " そうです この",
+      "translation": " 这是正确的。",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:24.949991",
+      "text": " そうです  この",
+      "translation": " 这是正确的。",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:25.126996",
+      "text": " そうです  この研究",
+      "translation": " 是的，这项研究",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:25.356151",
+      "text": " そうです  この研究室",
+      "translation": " 是的，这个实验室",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:25.465953",
+      "text": " そうです  この研究室に",
+      "translation": " 是的，在这个实验室里。",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:25.620145",
+      "text": " そうです  この研究室にも",
+      "translation": " 是的，在这个实验室里也一样。",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:26.304690",
+      "text": " そうです この研究室にも",
+      "translation": " 是的，在这个实验室里也一样。",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:26.454407",
+      "text": " そうです この研究室にも  中国",
+      "translation": " 是的，这个实验室里面有一个中文实验室。",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:26.820980",
+      "text": " そうです  この研究室にも中国から",
+      "translation": " 是的，这个实验室里也有来自中国的人。",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:27.282407",
+      "text": " そうです  この研究室にも中国からの",
+      "translation": " 是的，这个实验室里也有来自中国的人。",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:27.505176",
+      "text": " そうです この研究室にも中国から  のい",
+      "translation": " 是的，这个实验室有很多来自中国的研究人员。",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:27.680161",
+      "text": " そうです  この研究室にも中国からの",
+      "translation": " 是的，这个实验室里也有来自中国的人。",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:27.835824",
+      "text": " そうです この研究室にも中国からの  いらっしゃっ",
+      "translation": " 是的，这个实验室里也有来自中国的人。",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:28.038035",
+      "text": " そうです この研究室にも中国からの  いらっしゃってる",
+      "translation": " 是的，这个实验室里也有来自中国的人。",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:28.226409",
+      "text": " そうです この研究室にも中国からの いらっしゃってる  研究",
+      "translation": " 是的，这个实验室里有来自中国的研究人员。",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:28.415600",
+      "text": " そうです この研究室にも中国からの いらっしゃってる  研究者",
+      "translation": " 是的，这个实验室里有来自中国的研究人员。",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:28.631012",
+      "text": " そうです この研究室にも中国からの いらっしゃってる  研究者の",
+      "translation": " 是的，这个实验室里有来自中国的研究人员。",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:28.828034",
+      "text": " そうです この研究室にも中国からの いらっしゃってる  研究者の方",
+      "translation": " 是的，这个实验室里有来自中国的研究人员。",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:29.029879",
+      "text": " そうです この研究室にも中国からの いらっしゃってる  研究者の方も",
+      "translation": " 是的，这个实验室里有来自中国的研究人员。",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:29.438377",
+      "text": " そうです この研究室にも中国からの いらっしゃってる  研究者の方もいらっ",
+      "translation": " 是的，这个实验室里有来自中国的研究人员。",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:29.615917",
+      "text": " そうです この研究室にも中国からの いらっしゃってる  研究者の方もいらっしゃっ",
+      "translation": " 是的，这个实验室里有来自中国的研究人员。",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:29.865010",
+      "text": " そうです この研究室にも中国からの いらっしゃってる  研究者の方もいらっしゃって",
+      "translation": " 是的，这个实验室里也有来自中国的研究人员。",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:30.626459",
+      "text": " そうです この研究室にも中国からの いらっしゃってる 研究者の方もいらっしゃって",
+      "translation": " 是的，这个实验室里也有来自中国的研究人员。",
+      "confidence": 0.611870527267456,
+      "final": true
+    },
+    {
+      "timestamp": "2025-07-17T05:54:32.796742",
+      "text": " 是非",
+      "translation": " 我喜欢",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:32.992619",
+      "text": " 是非と",
+      "translation": " 无论如何",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:33.065392",
+      "text": " 是非とも",
+      "translation": " 无论如何",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:33.322825",
+      "text": " 是非とも あの",
+      "translation": " 无论如何，",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:33.699867",
+      "text": " 是非とも  あの",
+      "translation": " 无论如何，",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:34.045170",
+      "text": " 是非とも あの",
+      "translation": " 无论如何，",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:34.345426",
+      "text": " 是非とも あの  入って",
+      "translation": " 请进。",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:34.563415",
+      "text": " 是非とも あの 入って",
+      "translation": " 请进。",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:34.693914",
+      "text": " 是非とも あの  入っていただい",
+      "translation": " 请进。",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:34.886977",
+      "text": " 是非とも あの  入っていただいたら",
+      "translation": " 如果您能加入我们我将非常感激。",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:35.397179",
+      "text": " 是非とも あの 入っていただいたら",
+      "translation": " 如果您能加入我们我将非常感激。",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:36.146300",
+      "text": " 是非とも あの  入っていただいたら過ごし",
+      "translation": " 请过来加入我们吧。",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:36.386534",
+      "text": " 是非とも あの 入っていただいたら  過ごしやすい",
+      "translation": " 请进来并享受您的逗留。",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:36.683620",
+      "text": " 是非とも あの 入っていただいたら  過ごしやすい環境",
+      "translation": " 如果你进来，你就会有一个舒适的环境。",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:37.054741",
+      "text": " 是非とも あの 入っていただいたら 過ごしやすい環境  な",
+      "translation": " 如果你进来，你会发现这是一个舒适的环境。",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:37.260979",
+      "text": " 是非とも あの 入っていただいたら 過ごしやすい環境  なんじゃ",
+      "translation": " 如果你进来的话，这里将会是一个舒适的环境。",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:37.473221",
+      "text": " 是非とも あの 入っていただいたら 過ごしやすい環境  なんじゃない",
+      "translation": " 我绝对推荐您进来享受舒适的环境。",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:37.675076",
+      "text": " 是非とも あの 入っていただいたら 過ごしやすい環境  なんじゃないか",
+      "translation": " 我认为如果你进来的话，这将是一个非常舒适的环境。",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:37.882255",
+      "text": " 是非とも あの 入っていただいたら 過ごしやすい環境  なんじゃないかな",
+      "translation": " 我认为如果你进来的话，这将是一个非常舒适的环境。",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:38.044899",
+      "text": " 是非とも あの 入っていただいたら 過ごしやすい環境  なんじゃないかなと",
+      "translation": " 我认为如果你进来的话，这将是一个非常舒适的环境。",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:38.222935",
+      "text": " 是非とも あの 入っていただいたら 過ごしやすい環境  なんじゃないかなと思い",
+      "translation": " 我认为如果你进来的话，这里会是一个舒适的环境。",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:38.434361",
+      "text": " 是非とも あの 入っていただいたら 過ごしやすい環境  なんじゃないかなと思います",
+      "translation": " 我认为如果你进来的话，这将是一个非常舒适的环境。",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:39.080176",
+      "text": " 是非とも あの 入っていただいたら 過ごしやすい環境 なんじゃないかなと思います",
+      "translation": " 我认为如果你进来的话，这将是一个非常舒适的环境。",
+      "confidence": 0.820201575756073,
+      "final": true
+    },
+    {
+      "timestamp": "2025-07-17T05:54:39.795331",
+      "text": "はい",
+      "translation": "是的",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:40.133167",
+      "text": " はい 本日",
+      "translation": " 是的，今天",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:40.528752",
+      "text": " はい  本日",
+      "translation": " 是的，今天",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:40.742214",
+      "text": " はい  本日は",
+      "translation": " 是的，今天",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:40.866373",
+      "text": " はい  本日はどうぞ",
+      "translation": " 是的，请您今天来。",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:41.181993",
+      "text": " はい  本日はどうぞよろしく",
+      "translation": " 是的，感谢您今天的到来。",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:41.303973",
+      "text": " はい  本日はどうぞよろしくお願い",
+      "translation": " 是的，感谢您今天加入我们。",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:41.436572",
+      "text": " はい  本日はどうぞよろしくお願いし",
+      "translation": " 是的，感谢您今天的到来。",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:41.607623",
+      "text": " はい  本日はどうぞよろしくお願いします",
+      "translation": " 是的，感谢您今天加入我们。",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:54:42.633074",
+      "text": " はい 本日はどうぞよろしくお願いします",
+      "translation": " 是的，感谢您今天加入我们。",
+      "confidence": 0.9068940281867981,
+      "final": true
+    }
+  ]
+}

@@ -1,0 +1,377 @@
+{
+  "session_id": "20250717_040321_cce80cc3",
+  "start_time": "2025-07-17T04:03:21.632356",
+  "end_time": "2025-07-17T04:03:49.623184",
+  "language_code": "ja-JP",
+  "audio_bytes": 869220,
+  "chunks": 28974,
+  "audio_file": "audio/20250717_040321_cce80cc3.wav",
+  "results": [
+    {
+      "timestamp": "2025-07-17T04:03:23.867731",
+      "text": "こんにちは",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:03:24.462024",
+      "text": "こんにちは",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:03:25.965610",
+      "text": "こんにちは",
+      "confidence": 0.8069760203361511,
+      "final": true
+    },
+    {
+      "timestamp": "2025-07-17T04:03:28.086388",
+      "text": "お",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:03:28.168130",
+      "text": " お腹",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:03:28.372706",
+      "text": "お腹が",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:03:28.469686",
+      "text": " お腹が結構",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:03:28.966536",
+      "text": " お腹が結構いっぱい",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:03:29.176059",
+      "text": " お腹が結構いっぱいで",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:03:29.863166",
+      "text": " お腹が結構いっぱいで",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:03:30.168859",
+      "text": " お腹が結構いっぱいでもう",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:03:30.368243",
+      "text": " お腹が結構いっぱいでもうちょっと",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:03:30.965437",
+      "text": " お腹が結構いっぱいでもうちょっと",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:03:31.075081",
+      "text": " お腹が結構いっぱいでもうちょっとすごく",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:03:31.379592",
+      "text": " お腹が結構いっぱいでもうちょっとすごく眠",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:03:31.384199",
+      "text": " お腹が結構いっぱいでもうちょっとすごく眠たい",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:03:31.570072",
+      "text": " お腹が結構いっぱいでもうちょっとすごく眠たいです",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:03:32.573572",
+      "text": " お腹が結構いっぱいでもうちょっとすごく眠たいです",
+      "confidence": 0.9724632501602173,
+      "final": true
+    },
+    {
+      "timestamp": "2025-07-17T04:03:34.474176",
+      "text": " 明日",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:03:35.070101",
+      "text": " 明日",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:03:35.375310",
+      "text": " 明日は",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:03:35.384501",
+      "text": " 明日まだ",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:03:35.675028",
+      "text": " 明日はまだ",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:03:35.980523",
+      "text": " 明日はまだ総",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:03:36.075281",
+      "text": " 明日はまだ 総合",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:03:36.280735",
+      "text": " 明日はまだ総合研究",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:03:36.385227",
+      "text": " 明日はまだ総合研究会",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:03:36.579211",
+      "text": " 明日はまだ総合研究会が",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:03:36.675126",
+      "text": " 明日はまだ総合研究会がある",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:03:36.684214",
+      "text": " 明日はまだ総合研究会があるの",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:03:36.878576",
+      "text": " 明日はまだ総合研究会があるので",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:03:37.471316",
+      "text": " 明日はまだ総合研究会があるので",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:03:38.083699",
+      "text": " 明日はまだ総合研究会があるので",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:03:38.084010",
+      "text": " ちょっと",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:03:38.671416",
+      "text": " 明日はまだ総合研究会があるので ちょっと",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:03:39.384361",
+      "text": " 明日はまだ総合研究会があるので ちょっと",
+      "confidence": 0.8767044544219971,
+      "final": true
+    },
+    {
+      "timestamp": "2025-07-17T04:03:41.386914",
+      "text": "多",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:03:41.395671",
+      "text": "多少",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:03:41.577036",
+      "text": "多少は",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:03:41.779813",
+      "text": "多少はちゃんと",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:03:42.082323",
+      "text": "多少はちゃんと出",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:03:42.091233",
+      "text": "多少はちゃんと出た",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:03:42.301968",
+      "text": "多少はちゃんと出た方が",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:03:42.376457",
+      "text": "多少はちゃんと出た方がいい",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:03:42.387108",
+      "text": "多少はちゃんと出た方がいいか",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:03:42.591643",
+      "text": "多少はちゃんと出た方がいいかなっ",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:03:42.679026",
+      "text": "多少はちゃんと出た方がいいかなって",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:03:43.577637",
+      "text": "多少はちゃんと出た方がいいかなって",
+      "confidence": 0.6601188778877258,
+      "final": true
+    },
+    {
+      "timestamp": "2025-07-17T04:03:45.081781",
+      "text": "寝",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:03:45.181994",
+      "text": "寝た",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:03:45.285732",
+      "text": "寝た方が",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:03:45.396889",
+      "text": "寝た方がいい",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:03:45.478372",
+      "text": "寝た方がいいか",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:03:45.580029",
+      "text": "寝た方がいいかなっ",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:03:45.685507",
+      "text": "寝た方がいいかなって",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:03:46.390422",
+      "text": "寝た方がいいかなって",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:03:46.777663",
+      "text": "寝た方がいいかなってそう",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:03:46.879551",
+      "text": "寝た方がいいかなってそう思っ",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:03:46.897760",
+      "text": "寝た方がいいかなってそう思って",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:03:47.181664",
+      "text": "寝た方がいいかなってそう思ってます",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:03:47.980574",
+      "text": "寝た方がいいかなってそう思ってます",
+      "confidence": 0.5578569769859314,
+      "final": true
+    }
+  ]
+}

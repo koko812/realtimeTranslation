@@ -1,0 +1,284 @@
+{
+  "session_id": "20250717_051025_29d837f6",
+  "start_time": "2025-07-17T05:10:25.328554",
+  "end_time": "2025-07-17T05:10:55.530911",
+  "language_code": "ja-JP",
+  "audio_bytes": 937560,
+  "chunks": 31252,
+  "audio_file": "../audio/20250717_051025_29d837f6.wav",
+  "results": [
+    {
+      "timestamp": "2025-07-17T05:10:27.560175",
+      "text": "はい",
+      "translation": "yes",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:10:27.650437",
+      "text": "はいどう",
+      "translation": "How do you do?",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:10:27.747764",
+      "text": "はいどうも",
+      "translation": "Hello.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:10:27.888146",
+      "text": "はいどうもこんにちは",
+      "translation": "Yes hello",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:10:29.588964",
+      "text": " あの",
+      "translation": " that",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:10:29.897438",
+      "text": "はいどうもこんにちはあの僕",
+      "translation": "Hello, hello there.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:10:30.148012",
+      "text": "はいどうもこんにちはあの",
+      "translation": "Hello, hello there.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:10:30.221821",
+      "text": " 僕の",
+      "translation": " My",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:10:30.352418",
+      "text": "はいどうもこんにちはあの",
+      "translation": "Hello, hello there.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:10:30.431273",
+      "text": " 僕の名前",
+      "translation": " My Name",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:10:30.561664",
+      "text": "はいどうもこんにちはあの",
+      "translation": "Hello, hello there.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:10:30.640028",
+      "text": " 僕の名前は",
+      "translation": " My name is",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:10:31.060735",
+      "text": "はいどうもこんにちはあの 僕の名前は",
+      "translation": "Hello, hello. My name is",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:10:32.026479",
+      "text": " 岩",
+      "translation": " rock",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:10:32.310897",
+      "text": "はいどうもこんにちはあの 僕の名前は",
+      "translation": "Hello, hello. My name is",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:10:32.389374",
+      "text": " 岩川",
+      "translation": " Iwakawa",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:10:32.506005",
+      "text": "はいどうもこんにちはあの 僕の名前は",
+      "translation": "Hello, hello. My name is",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:10:32.631759",
+      "text": " 岩川と",
+      "translation": " With Iwakawa",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:10:32.758438",
+      "text": "はいどうもこんにちはあの 僕の名前は 岩川",
+      "translation": "Hello, hello. My name is Iwakawa.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:10:32.834983",
+      "text": " と言い",
+      "translation": " He said",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:10:33.010369",
+      "text": "はいどうもこんにちはあの 僕の名前は 岩川",
+      "translation": "Hello, hello. My name is Iwakawa.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:10:33.090252",
+      "text": " と言います",
+      "translation": " says",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:10:33.665386",
+      "text": "はいどうもこんにちはあの 僕の名前は 岩川 と言います",
+      "translation": "Hello, hello. My name is Iwakawa.",
+      "confidence": 0.8572444319725037,
+      "final": true
+    },
+    {
+      "timestamp": "2025-07-17T05:10:38.300251",
+      "text": " これ",
+      "translation": " this",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:10:38.389874",
+      "text": " これから",
+      "translation": " from now",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:10:40.130850",
+      "text": " これからオープ",
+      "translation": " Opening soon",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:10:40.265797",
+      "text": " これからオープン",
+      "translation": " Now opening",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:10:40.465193",
+      "text": " これからオープンキャン",
+      "translation": " Open Camp from now on",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:10:40.565391",
+      "text": " これからオープンキャンパ",
+      "translation": " Now open camp",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:10:40.684661",
+      "text": " これからオープンキャンパス",
+      "translation": " Now open campus",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:10:40.793220",
+      "text": " これからオープンキャンパスの",
+      "translation": " Now, the open campus",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:10:40.937720",
+      "text": " これからオープンキャンパスの説明",
+      "translation": " Now, an explanation of the open campus",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:10:41.188420",
+      "text": " これからオープンキャンパスの説明を",
+      "translation": " Now, I will explain about the open campus.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:10:41.323066",
+      "text": " これからオープンキャンパスの説明をしよう",
+      "translation": " Now let me explain about the open campus.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:10:41.458530",
+      "text": " これからオープンキャンパスの説明をしようと",
+      "translation": " I'm going to explain about the open campus now.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:10:41.577057",
+      "text": " これからオープンキャンパスの説明をしようと思う",
+      "translation": " I would like to explain about the open campus now.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:10:41.709360",
+      "text": " これからオープンキャンパスの説明をしようと思うんです",
+      "translation": " I'm going to explain about the open campus now.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:10:41.836361",
+      "text": " これからオープンキャンパスの説明をしようと思うんですけど",
+      "translation": " I'm going to explain about the open campus now.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:10:42.891887",
+      "text": " これからオープンキャンパスの説明をしようと思うんですけど",
+      "translation": " I'm going to explain about the open campus now.",
+      "confidence": 0.9418299198150635,
+      "final": true
+    }
+  ]
+}

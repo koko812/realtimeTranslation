@@ -1,0 +1,900 @@
+{
+  "session_id": "20250717_052049_f8042b45",
+  "start_time": "2025-07-17T05:20:49.180984",
+  "end_time": "2025-07-17T05:21:22.901638",
+  "language_code": "ja-JP",
+  "audio_bytes": 1049190,
+  "chunks": 34973,
+  "audio_file": "../audio/20250717_052049_f8042b45.wav",
+  "results": [
+    {
+      "timestamp": "2025-07-17T05:20:51.411765",
+      "text": "はい",
+      "translation": "yes",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:20:51.485075",
+      "text": "はいこんにちは",
+      "translation": "Hello",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:20:52.308750",
+      "text": " 本日",
+      "translation": " today",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:20:52.622631",
+      "text": "はいこんにちは",
+      "translation": "Hello",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:20:52.701095",
+      "text": " 本日は",
+      "translation": " Today",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:20:53.263460",
+      "text": "はいこんにちは 本日は",
+      "translation": "Hello, today",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:20:53.526180",
+      "text": " オープ",
+      "translation": " Open",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:20:53.648596",
+      "text": "はいこんにちは 本日は",
+      "translation": "Hello, today",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:20:53.729669",
+      "text": " オープン",
+      "translation": " open",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:20:53.856965",
+      "text": "はいこんにちは 本日は",
+      "translation": "Hello, today",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:20:53.933337",
+      "text": " オープンキャン",
+      "translation": " Open Camp",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:20:54.086861",
+      "text": "はいこんにちは 本日は",
+      "translation": "Hello, today",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:20:54.170326",
+      "text": " オープンキャンパ",
+      "translation": " Open Campus",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:20:54.379135",
+      "text": "はいこんにちは 本日は",
+      "translation": "Hello, today",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:20:54.454579",
+      "text": " オープンキャンパス",
+      "translation": " Open Campus",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:20:54.597942",
+      "text": "はいこんにちは 本日は",
+      "translation": "Hello, today",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:20:54.682930",
+      "text": " オープンキャンパスで",
+      "translation": " At the open campus",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:20:54.825708",
+      "text": "はいこんにちは 本日は オープンキャンパスで",
+      "translation": "Hello, hello. Today is the open campus.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:20:55.302346",
+      "text": "はいこんにちは 本日は",
+      "translation": "Hello, today",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:20:55.404793",
+      "text": " オープンキャンパスで僕",
+      "translation": " Me at the open campus",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:20:55.524396",
+      "text": "はいこんにちは 本日は",
+      "translation": "Hello, today",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:20:55.654541",
+      "text": " オープンキャンパスで僕たち",
+      "translation": " Us at the Open Campus",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:20:55.765881",
+      "text": "はいこんにちは 本日は",
+      "translation": "Hello, today",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:20:55.895769",
+      "text": " オープンキャンパスで僕たちの",
+      "translation": " Our Open Campus",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:20:56.038022",
+      "text": "はいこんにちは 本日は",
+      "translation": "Hello, today",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:20:56.128725",
+      "text": " オープンキャンパスで僕たちのぶ",
+      "translation": " Our group at the open campus",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:20:56.269616",
+      "text": "はいこんにちは 本日は",
+      "translation": "Hello, today",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:20:56.410767",
+      "text": " オープンキャンパスで僕たちの ブース",
+      "translation": " Our booth at the open campus",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:20:56.515715",
+      "text": "はいこんにちは 本日は",
+      "translation": "Hello, today",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:20:56.672149",
+      "text": " オープンキャンパスで僕たちのブースに",
+      "translation": " At our booth at the open campus",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:20:56.786311",
+      "text": "はいこんにちは 本日は",
+      "translation": "Hello, today",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:20:56.926287",
+      "text": " オープンキャンパスで僕たちのブースに来て",
+      "translation": " Come to our booth at the open campus",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:20:57.042330",
+      "text": "はいこんにちは 本日は",
+      "translation": "Hello, today",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:20:57.185733",
+      "text": " オープンキャンパスで僕たちのブースに来ていただい",
+      "translation": " Please come to our booth at the open campus.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:20:57.291381",
+      "text": "はいこんにちは 本日は",
+      "translation": "Hello, today",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:20:57.435880",
+      "text": " オープンキャンパスで僕たちのブースに来ていただいたり",
+      "translation": " They came to our booth at the open campus.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:20:57.542041",
+      "text": "はいこんにちは 本日は",
+      "translation": "Hello, today",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:20:57.669242",
+      "text": " オープンキャンパスで僕たちのブースに来ていただいたりありがとう",
+      "translation": " Thank you for coming to our booth at the open campus.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:20:57.797528",
+      "text": "はいこんにちは 本日は",
+      "translation": "Hello, today",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:20:57.994110",
+      "text": " オープンキャンパスで僕たちのブースに来ていただいたりありがとうござい",
+      "translation": " Thank you for coming to our booth at the open campus.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:20:58.099312",
+      "text": "はいこんにちは 本日は",
+      "translation": "Hello, today",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:20:58.213912",
+      "text": " オープンキャンパスで僕たちのブースに来ていただいたりありがとうございます",
+      "translation": " Thank you for coming to our booth at the open campus.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:20:58.369580",
+      "text": "はいこんにちは 本日は オープンキャンパスで僕たちのブースに来ていただいたりありがとうございます",
+      "translation": "Hello, thank you for coming to our booth at the open campus today.",
+      "confidence": 0.9487491250038147,
+      "final": true
+    },
+    {
+      "timestamp": "2025-07-17T05:20:59.769006",
+      "text": " まず",
+      "translation": " first",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:00.013187",
+      "text": " まず どんな",
+      "translation": " First of all, what",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:00.207327",
+      "text": " まず どんなこと",
+      "translation": " First of all, what",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:00.405161",
+      "text": " まず どんなことを",
+      "translation": " First of all, what",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:00.552663",
+      "text": " まず",
+      "translation": " first",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:00.622807",
+      "text": " どんなことを",
+      "translation": " What kind of things?",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:01.051104",
+      "text": " まず どんなことを",
+      "translation": " First of all, what",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:01.121820",
+      "text": " まず",
+      "translation": " first",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:01.236935",
+      "text": " どんなことを聞い",
+      "translation": " What kind of questions did you ask?",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:01.306782",
+      "text": " まず",
+      "translation": " first",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:01.382101",
+      "text": " どんなことを聞いて",
+      "translation": " What kind of things did you ask?",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:01.446447",
+      "text": " まず",
+      "translation": " first",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:01.553119",
+      "text": " どんなことを聞いてみ",
+      "translation": " What kind of questions do you ask?",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:01.621084",
+      "text": " まず",
+      "translation": " first",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:01.766278",
+      "text": " どんなことを聞いてみたい",
+      "translation": " What kind of things would you like to ask?",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:01.833247",
+      "text": " まず",
+      "translation": " first",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:01.936310",
+      "text": " どんなことを聞いてみたいとか",
+      "translation": " What kind of things would you like to hear?",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:02.009747",
+      "text": " まず",
+      "translation": " first",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:02.153990",
+      "text": " どんなことを聞いてみたいとかあり",
+      "translation": " What kind of things would you like to ask?",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:02.223816",
+      "text": " まず",
+      "translation": " first",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:02.402029",
+      "text": " どんなことを聞いてみたいとかあります",
+      "translation": " There are things I would like to ask you.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:02.469426",
+      "text": " まず",
+      "translation": " first",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:02.592262",
+      "text": " どんなことを聞いてみたいとかありますか",
+      "translation": " Is there anything you would like to ask?",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:02.659452",
+      "text": " まず",
+      "translation": " first",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:02.788834",
+      "text": " どんなことを聞いてみたいとかありますかね",
+      "translation": " Is there anything you would like to ask?",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:03.346124",
+      "text": " まず どんなことを聞いてみたいとかありますかね",
+      "translation": " First of all, is there anything you would like to ask?",
+      "confidence": 0.9195308685302734,
+      "final": true
+    },
+    {
+      "timestamp": "2025-07-17T05:21:05.868245",
+      "text": " ちょっと",
+      "translation": " a little bit",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:06.075989",
+      "text": " ちょっと あの",
+      "translation": " Hey, um...",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:06.279264",
+      "text": " ちょっとあのはい",
+      "translation": " Hey, um, yes.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:06.956958",
+      "text": " ちょっとあのはいこちら",
+      "translation": " Hey, um, here.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:07.728378",
+      "text": " ちょっとあのはいこちらと",
+      "translation": " Hey, hey, here we go.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:07.824509",
+      "text": " ちょっとあのはいこちらとして",
+      "translation": " Hey, um, here we go.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:08.042233",
+      "text": " ちょっとあのはいこちらとしては",
+      "translation": " Well, yes, on our side",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:08.614885",
+      "text": " ちょっとあのはいこちらとしてはいろんな",
+      "translation": " Well, yes, we have a lot of",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:08.732205",
+      "text": " ちょっとあのはいこちらとしてはいろんなで",
+      "translation": " Well, yes, we have a lot of things",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:08.873729",
+      "text": " ちょっとあのはいこちらとしてはいろんなデモ",
+      "translation": " Well, yes, we have various demos.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:08.991650",
+      "text": " ちょっとあのはいこちらとしてはいろんなデモが",
+      "translation": " Well, yes, we have a lot of demos.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:09.118163",
+      "text": " ちょっとあのはいこちらとしてはいろんなデモがあって",
+      "translation": " Well, yes, we have a lot of demos going on.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:09.682943",
+      "text": " この",
+      "translation": " this",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:10.129403",
+      "text": " ちょっとあのはいこちらとしてはいろんなデモがあって この",
+      "translation": " Well, yes, we have a lot of demos.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:10.205863",
+      "text": " その",
+      "translation": " the",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:10.345721",
+      "text": " ちょっとあのはいこちらとしてはいろんなデモがあって この",
+      "translation": " Well, yes, we have a lot of demos.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:10.422015",
+      "text": " その一",
+      "translation": " Number One",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:10.530497",
+      "text": " ちょっとあのはいこちらとしてはいろんなデモがあって この",
+      "translation": " Well, yes, we have a lot of demos.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:10.599180",
+      "text": " その一つ",
+      "translation": " One of them",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:10.713565",
+      "text": " ちょっとあのはいこちらとしてはいろんなデモがあって この",
+      "translation": " Well, yes, we have a lot of demos.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:10.857990",
+      "text": " その一つと",
+      "translation": " One of them",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:11.038486",
+      "text": " ちょっとあのはいこちらとしてはいろんなデモがあって この",
+      "translation": " Well, yes, we have a lot of demos.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:11.133734",
+      "text": " その一つとし",
+      "translation": " As one of them",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:11.304022",
+      "text": " ちょっとあのはいこちらとしてはいろんなデモがあって この",
+      "translation": " Well, yes, we have a lot of demos.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:11.374624",
+      "text": " その一つとして",
+      "translation": " As one of them",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:11.524212",
+      "text": " ちょっとあのはいこちらとしてはいろんなデモがあって この その一つとして",
+      "translation": " Well, there are various demonstrations here, and one of them is this",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:11.592632",
+      "text": " これ",
+      "translation": " this",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:11.713727",
+      "text": " ちょっとあのはいこちらとしてはいろんなデモがあって この その一つとして",
+      "translation": " Well, there are various demonstrations here, and one of them is this",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:11.781044",
+      "text": " これは",
+      "translation": " this is",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:11.914852",
+      "text": " ちょっとあのはいこちらとしてはいろんなデモがあって この その一つとして これ",
+      "translation": " Well, there are various demonstrations here, and one of them is this",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:11.984449",
+      "text": " あの",
+      "translation": " that",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:12.098313",
+      "text": " ちょっとあのはいこちらとしてはいろんなデモがあって この その一つとして これ",
+      "translation": " Well, there are various demonstrations here, and one of them is this",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:12.169113",
+      "text": " あの今",
+      "translation": " Now",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:12.306361",
+      "text": " ちょっとあのはいこちらとしてはいろんなデモがあって この その一つとして これ あの",
+      "translation": " Well, there are various demonstrations here, and one of them is this",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:12.372492",
+      "text": " 今リア",
+      "translation": " Now Rear",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:12.488822",
+      "text": " ちょっとあのはいこちらとしてはいろんなデモがあって この その一つとして これ あの 今",
+      "translation": " Well, there are various demonstrations here, and one of them is this",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:12.567023",
+      "text": " リアル",
+      "translation": " Real",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:12.714162",
+      "text": " ちょっとあのはいこちらとしてはいろんなデモがあって この その一つとして これ あの 今",
+      "translation": " Well, there are various demonstrations here, and one of them is this",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:12.781728",
+      "text": " リアルタイム",
+      "translation": " real time",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:12.917166",
+      "text": " ちょっとあのはいこちらとしてはいろんなデモがあって この その一つとして これ あの 今",
+      "translation": " Well, there are various demonstrations here, and one of them is this",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:12.983992",
+      "text": " リアルタイム翻訳",
+      "translation": " Real-time translation",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:13.137336",
+      "text": " ちょっとあのはいこちらとしてはいろんなデモがあって この その一つとして これ あの 今 リアルタイム翻訳",
+      "translation": " Well, we have a lot of demos, and one of them is this, real-time translation.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:13.202202",
+      "text": " みたい",
+      "translation": " Like",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:13.309630",
+      "text": " ちょっとあのはいこちらとしてはいろんなデモがあって この その一つとして これ あの 今 リアルタイム翻訳",
+      "translation": " Well, we have a lot of demos, and one of them is this, real-time translation.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:13.382375",
+      "text": " みたいな",
+      "translation": " Like",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:13.494022",
+      "text": " ちょっとあのはいこちらとしてはいろんなデモがあって この その一つとして これ あの 今 リアルタイム翻訳",
+      "translation": " Well, we have a lot of demos, and one of them is this, real-time translation.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:13.563847",
+      "text": " みたいなの",
+      "translation": " Something like that",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:14.142505",
+      "text": " ちょっとあのはいこちらとしてはいろんなデモがあって この その一つとして これ あの 今 リアルタイム翻訳 みたいなの",
+      "translation": " Well, we have a lot of demos, and one of them is this, real-time translation.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:14.406934",
+      "text": " やっ",
+      "translation": " Yay",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:14.552595",
+      "text": " ちょっとあのはいこちらとしてはいろんなデモがあって この その一つとして これ あの 今 リアルタイム翻訳",
+      "translation": " Well, we have a lot of demos, and one of them is this, real-time translation.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:14.698597",
+      "text": " みたいなのやって",
+      "translation": " Do something like that",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:14.837519",
+      "text": " ちょっとあのはいこちらとしてはいろんなデモがあって この その一つとして これ あの 今 リアルタイム翻訳",
+      "translation": " Well, we have a lot of demos, and one of them is this, real-time translation.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:14.970736",
+      "text": " みたいなのやっている",
+      "translation": " I'm doing something like",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:15.100330",
+      "text": " ちょっとあのはいこちらとしてはいろんなデモがあって この その一つとして これ あの 今 リアルタイム翻訳",
+      "translation": " Well, we have a lot of demos, and one of them is this, real-time translation.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:15.234701",
+      "text": " みたいなのやっているんです",
+      "translation": " I'm doing something like that.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:15.349506",
+      "text": " ちょっとあのはいこちらとしてはいろんなデモがあって この その一つとして これ あの 今 リアルタイム翻訳",
+      "translation": " Well, we have a lot of demos, and one of them is this, real-time translation.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:15.477200",
+      "text": " みたいなのやっているんですが",
+      "translation": " I'm doing something like this.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:21:16.123696",
+      "text": " ちょっとあのはいこちらとしてはいろんなデモがあって この その一つとして これ あの 今 リアルタイム翻訳 みたいなのやっているんですが",
+      "translation": " Well, we have a lot of demos going on here, and one of them is a real-time translation.",
+      "confidence": 0.6544378995895386,
+      "final": true
+    }
+  ]
+}

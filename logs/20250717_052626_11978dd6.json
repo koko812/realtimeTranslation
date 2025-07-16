@@ -1,0 +1,137 @@
+{
+  "session_id": "20250717_052626_11978dd6",
+  "start_time": "2025-07-17T05:26:26.500972",
+  "end_time": "2025-07-17T05:26:41.316085",
+  "language_code": "ja-JP",
+  "audio_bytes": 447720,
+  "chunks": 14924,
+  "audio_file": "../audio/20250717_052626_11978dd6.wav",
+  "results": [
+    {
+      "timestamp": "2025-07-17T05:26:28.674071",
+      "text": "こんにちは",
+      "translation": "Hello",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:26:30.083467",
+      "text": " 東",
+      "translation": " East",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:26:30.180789",
+      "text": "こんにちは",
+      "translation": "Hello",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:26:30.257660",
+      "text": " 東工",
+      "translation": " Tokyo Tech",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:26:30.346701",
+      "text": "こんにちは",
+      "translation": "Hello",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:26:30.508878",
+      "text": " 東工大",
+      "translation": " Tokyo Institute of Technology",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:26:30.632078",
+      "text": "こんにちは 東邦大学",
+      "translation": "Hello, Toho University",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:26:30.763808",
+      "text": "こんにちは 東邦大学の",
+      "translation": "Hello,",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:26:30.872794",
+      "text": "こんにちは",
+      "translation": "Hello",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:26:30.997495",
+      "text": " 東邦大学の",
+      "translation": " Toho University",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:26:31.357973",
+      "text": "こんにちは 東邦大学の",
+      "translation": "Hello,",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:26:32.233557",
+      "text": "こんにちは",
+      "translation": "Hello",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:26:32.353793",
+      "text": " 東邦大学の岩",
+      "translation": " Toho University Rock",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:26:32.505745",
+      "text": "こんにちは 東邦大学の",
+      "translation": "Hello,",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:26:32.591074",
+      "text": " 岩川",
+      "translation": " Iwakawa",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:26:32.673765",
+      "text": "こんにちは",
+      "translation": "Hello",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:26:32.803046",
+      "text": " 東邦大学の岩川です",
+      "translation": " This is Iwakawa from Toho University.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:26:33.507390",
+      "text": "こんにちは 東邦大学の岩川です",
+      "translation": "Hello, I'm Iwakawa from Toho University.",
+      "confidence": 0.9220424890518188,
+      "final": true
+    }
+  ]
+}

@@ -1,0 +1,587 @@
+{
+  "session_id": "20250717_035437_bc1ee79f",
+  "start_time": "2025-07-17T03:54:37.705240",
+  "end_time": "2025-07-17T03:55:19.410312",
+  "language_code": "ja-JP",
+  "audio_bytes": 1007280,
+  "chunks": 33576,
+  "audio_file": "audio/20250717_035437_bc1ee79f.wav",
+  "results": [
+    {
+      "timestamp": "2025-07-17T03:54:41.210550",
+      "text": "こんにちは",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:54:41.804101",
+      "text": "こんにちは",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:54:43.115496",
+      "text": "こんにちは",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:54:43.115680",
+      "text": " 君",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:54:43.210962",
+      "text": "こんにちは",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:54:43.211044",
+      "text": " 君の",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:54:43.311571",
+      "text": "こんにちは",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:54:43.311760",
+      "text": " 君の名前",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:54:43.415335",
+      "text": "こんにちは",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:54:43.415496",
+      "text": " 君の名前は",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:54:43.910330",
+      "text": "こんにちは",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:54:43.910503",
+      "text": " 君の名前は何",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:54:43.915898",
+      "text": "こんにちは",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:54:43.916028",
+      "text": " 君の名前は何です",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:54:44.113258",
+      "text": "こんにちは",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:54:44.113452",
+      "text": " 君の名前は何ですか",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:54:44.708074",
+      "text": "こんにちは 君の名前は何ですか",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:54:45.318614",
+      "text": "こんにちは 君の名前は何ですか",
+      "confidence": 0.9838132858276367,
+      "final": true
+    },
+    {
+      "timestamp": "2025-07-17T03:54:45.910135",
+      "text": " 明日",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:54:46.212353",
+      "text": " 明日は",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:54:46.619020",
+      "text": " 明日は晴",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:54:46.723896",
+      "text": " 明日は晴れる",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:54:46.810395",
+      "text": " 明日は晴れると",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:54:46.817657",
+      "text": " 明日は晴れるといい",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:54:47.010686",
+      "text": " 明日は晴れるといいな",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:54:47.811370",
+      "text": " 明日は晴れるといいな",
+      "confidence": 0.9357323050498962,
+      "final": true
+    },
+    {
+      "timestamp": "2025-07-17T03:54:49.913797",
+      "text": " 今日",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:54:50.121353",
+      "text": " 今日は",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:54:50.715904",
+      "text": " 今日は",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:54:50.916050",
+      "text": " 今日はちょっと",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:54:51.518721",
+      "text": " 今日はちょっと雨",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:54:51.714305",
+      "text": " 今日はちょっと雨が",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:54:51.939649",
+      "text": " 今日はちょっと雨が降って",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:54:52.117487",
+      "text": " 今日はちょっと雨が降ってい",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:54:52.127126",
+      "text": " 今日はちょっと雨が降っていた",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:54:52.216404",
+      "text": " 今日はちょっと雨が降っていたけど",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:54:52.813492",
+      "text": " 今日はちょっと雨が降っていたけど",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:54:53.729711",
+      "text": " 今日はちょっと雨が降っていたけどま",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:54:53.819912",
+      "text": " 今日はちょっと雨が降っていたけどまあ",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:54:53.916196",
+      "text": " 今日はちょっと雨が降っていたけどまあ別",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:54:54.018023",
+      "text": " 今日はちょっと雨が降っていたけどまあ",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:54:54.018175",
+      "text": " 別に",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:54:54.618874",
+      "text": " 今日はちょっと雨が降っていたけどまあ別にだ",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:54:54.821888",
+      "text": " 今日はちょっと雨が降っていたけどまあ 別に",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:54:54.822067",
+      "text": " だから",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:54:54.917416",
+      "text": " 今日はちょっと雨が降っていたけどまあ 別に",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:54:54.917540",
+      "text": " だからと",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:54:55.218814",
+      "text": " 今日はちょっと雨が降っていたけどまあ 別に",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:54:55.219032",
+      "text": " だからといっ",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:54:55.317188",
+      "text": " 今日はちょっと雨が降っていたけどまあ 別に",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:54:55.317333",
+      "text": " だからといって",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:54:56.412138",
+      "text": " 今日はちょっと雨が降っていたけどまあ 別に だからといって",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:54:56.426728",
+      "text": " 今日はちょっと雨が降っていたけどまあ 別に だからといって",
+      "confidence": 0.9325368404388428,
+      "final": true
+    },
+    {
+      "timestamp": "2025-07-17T03:54:57.217215",
+      "text": "気分",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:54:57.414026",
+      "text": "気分が",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:54:57.516146",
+      "text": "気分が落ち",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:54:57.718104",
+      "text": "気分が落ちる",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:54:57.725248",
+      "text": "気分が落ちると",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:54:57.825775",
+      "text": "気分が落ちるとか",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:54:58.422440",
+      "text": "気分が落ちるとかそう",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:54:58.626944",
+      "text": "気分が落ちるとかそういうこと",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:54:58.824707",
+      "text": "気分が落ちるとかそういうことは",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:54:58.924195",
+      "text": "気分が落ちるとかそういうことはあまり",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:54:59.026264",
+      "text": "気分が落ちるとかそういうことはあまりない",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:54:59.125357",
+      "text": "気分が落ちるとかそういうことはあんまりない",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:54:59.932307",
+      "text": "気分が落ちるとかそういうことはあまりない",
+      "confidence": 0.9585357308387756,
+      "final": true
+    },
+    {
+      "timestamp": "2025-07-17T03:55:02.927637",
+      "text": " ありがとう",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:55:03.522353",
+      "text": " ありがとう",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:55:04.333013",
+      "text": " ありがとう",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:55:04.333197",
+      "text": " ちょっと",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:55:04.734629",
+      "text": " ありがとう",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:55:04.734847",
+      "text": " ちょっと言っ",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:55:04.749188",
+      "text": " ありがとう",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:55:04.749320",
+      "text": " ちょっと 一",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:55:04.833134",
+      "text": " ありがとう",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:55:04.833333",
+      "text": " ちょっと 一旦",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:55:04.935836",
+      "text": " ありがとう ちょっと",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:55:04.936031",
+      "text": " 一旦",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:55:05.633962",
+      "text": " ありがとう ちょっと 一旦",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:55:05.933805",
+      "text": " ありがとう ちょっと 一旦",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:55:05.934005",
+      "text": " ログ",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:55:06.035368",
+      "text": " ありがとう ちょっと 一旦",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:55:06.035748",
+      "text": " ログを",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:55:06.142563",
+      "text": " ありがとう ちょっと 一旦",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:55:06.142675",
+      "text": " ログを見",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:55:06.244419",
+      "text": " ありがとう ちょっと 一旦",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:55:06.244613",
+      "text": " ログを見て",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:55:06.456434",
+      "text": " ありがとう ちょっと 一旦",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:55:06.456640",
+      "text": " ログを見てみる",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:55:06.646359",
+      "text": " ありがとう ちょっと 一旦",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:55:06.646592",
+      "text": " ログを見てみると",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:55:07.036713",
+      "text": " ありがとう ちょっと 一旦",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:55:07.036984",
+      "text": " ログを見てみるとし",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:55:07.146943",
+      "text": " ありがとう ちょっと 一旦",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:55:07.147121",
+      "text": " ログを見てみるとします",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T03:55:08.134498",
+      "text": " ありがとう ちょっと 一旦 ログを見てみるとします",
+      "confidence": 0.9294357299804688,
+      "final": true
+    }
+  ]
+}

@@ -1,0 +1,865 @@
+{
+  "session_id": "20250717_054837_75de23eb",
+  "start_time": "2025-07-17T05:48:37.483806",
+  "end_time": "2025-07-17T05:49:21.083960",
+  "language_code": "ja-JP",
+  "audio_bytes": 1361280,
+  "chunks": 45376,
+  "audio_file": "../audio/20250717_054837_75de23eb.wav",
+  "results": [
+    {
+      "timestamp": "2025-07-17T05:48:39.527045",
+      "text": "こんにちは",
+      "translation": "Hello",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:48:39.842157",
+      "text": "こんにちは  本日",
+      "translation": "Hello today",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:48:40.174050",
+      "text": "こんにちは  本日は",
+      "translation": "Hello today",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:48:40.820897",
+      "text": "こんにちは 本日は  研究",
+      "translation": "Hello, today, research",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:48:41.040168",
+      "text": "こんにちは 本日は  研究室",
+      "translation": "Hello, today, in the lab",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:48:41.170700",
+      "text": "こんにちは 本日は  研究室に",
+      "translation": "Hello, today in the lab",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:48:41.411055",
+      "text": "こんにちは 本日は  研究室にお",
+      "translation": "Hello, today I'm in the lab.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:48:41.551801",
+      "text": "こんにちは 本日は  研究室にお越",
+      "translation": "Hello, welcome to our lab today.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:48:41.651667",
+      "text": "こんにちは 本日は  研究室にお越し",
+      "translation": "Hello, welcome to the lab today.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:48:41.769931",
+      "text": "こんにちは 本日は  研究室にお越しいただき",
+      "translation": "Hello, thank you for coming to our lab today.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:48:41.933721",
+      "text": "こんにちは 本日は  研究室にお越しいただきまし",
+      "translation": "Hello, thank you for coming to our lab today.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:48:42.109399",
+      "text": "こんにちは 本日は  研究室にお越しいただきまして",
+      "translation": "Hello, thank you for coming to our lab today.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:48:42.417456",
+      "text": "こんにちは 本日は  研究室にお越しいただきましてありがとう",
+      "translation": "Hello, thank you for coming to our lab today.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:48:42.580437",
+      "text": "こんにちは 本日は  研究室にお越しいただきましてありがとうござい",
+      "translation": "Hello, thank you for coming to our lab today.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:48:42.867346",
+      "text": "こんにちは 本日は  研究室にお越しいただきましてありがとうございます",
+      "translation": "Hello, thank you for coming to our lab today.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:48:43.872931",
+      "text": "こんにちは 本日は 研究室にお越しいただきましてありがとうございます",
+      "translation": "Hello, thank you for coming to our lab today.",
+      "confidence": 0.9874403476715088,
+      "final": true
+    },
+    {
+      "timestamp": "2025-07-17T05:48:45.842041",
+      "text": " 今日",
+      "translation": " today",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:48:46.154464",
+      "text": " 今日は",
+      "translation": " Today is",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:48:46.439675",
+      "text": " 今日はなんか",
+      "translation": " What's today?",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:48:46.539388",
+      "text": " 今日は",
+      "translation": " Today is",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:48:46.610434",
+      "text": " 今日はどんな",
+      "translation": " What's today like?",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:48:46.735969",
+      "text": " 今日はどんなこと",
+      "translation": " What's happening today?",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:48:46.846721",
+      "text": " 今日はなんか どんなこと",
+      "translation": " What's going on today?",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:48:46.998063",
+      "text": " 今日はなんか どんなことに",
+      "translation": " What's happening today?",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:48:47.155439",
+      "text": " 今日はなんか どんなことについて",
+      "translation": " What is it about today?",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:48:47.431835",
+      "text": " 今日はなんか  どんなことについて聞き",
+      "translation": " What kind of things are you asking about today?",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:48:47.560806",
+      "text": " 今日はなんか  どんなことについて聞きたい",
+      "translation": " What would you like to ask me about today?",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:48:47.708071",
+      "text": " 今日はなんか  どんなことについて聞きたいな",
+      "translation": " What would you like to ask me about today?",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:48:47.844772",
+      "text": " 今日はなんか  どんなことについて聞きたいなと",
+      "translation": " What would you like to ask me about today?",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:48:47.974767",
+      "text": " 今日はなんか  どんなことについて聞きたいなとか",
+      "translation": " What would you like to ask me about today?",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:48:48.334390",
+      "text": " 今日はなんか  どんなことについて聞きたいなとかあり",
+      "translation": " Is there anything I want to ask you about today?",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:48:48.454313",
+      "text": " 今日はなんか  どんなことについて聞きたいなとかあります",
+      "translation": " Is there anything I'd like to ask you about today?",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:48:48.626876",
+      "text": " 今日はなんか  どんなことについて聞きたいなとかありますでしょう",
+      "translation": " Is there anything you'd like to ask me about today?",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:48:48.762402",
+      "text": " 今日はなんか  どんなことについて聞きたいなとかありますでしょうか",
+      "translation": " Is there anything you would like to ask about today?",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:48:49.432733",
+      "text": " 今日はなんか どんなことについて聞きたいなとかありますでしょうか",
+      "translation": " Is there anything you would like to ask about today?",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:48:49.790505",
+      "text": " 今日はなんか どんなことについて聞きたいなとかありますでしょうか  例えば",
+      "translation": " Is there anything you would like to ask about today? For example,",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:48:50.431331",
+      "text": " 今日はなんか どんなことについて聞きたいなとかありますでしょうか 例えば  研究",
+      "translation": " Is there anything you would like to ask me about today? For example, research.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:48:50.887820",
+      "text": " 今日はなんか どんなことについて聞きたいなとかありますでしょうか 例えば  研究の",
+      "translation": " Is there anything you would like to ask me about today? For example, about research.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:48:51.099135",
+      "text": " 今日はなんか どんなことについて聞きたいなとかありますでしょうか 例えば  研究のこと",
+      "translation": " Is there anything you would like to ask me about today? For example, about research.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:48:51.218429",
+      "text": " 今日はなんか どんなことについて聞きたいなとかありますでしょうか 例えば  研究のことに",
+      "translation": " Is there anything you would like to ask me about today? For example, about research.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:48:51.395056",
+      "text": " 今日はなんか どんなことについて聞きたいなとかありますでしょうか 例えば  研究のことに関し",
+      "translation": " Is there anything you would like to ask me about today? For example, about research.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:48:51.632351",
+      "text": " 今日はなんか どんなことについて聞きたいなとかありますでしょうか 例えば  研究のことに関して",
+      "translation": " Is there anything you would like to ask me about today? For example, about research.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:48:51.828136",
+      "text": " 今日はなんか どんなことについて聞きたいなとかありますでしょうか 例えば 研究のことに関して  など",
+      "translation": " Is there anything you would like to ask me about today? For example, about research.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:48:52.860729",
+      "text": " 今日はなんか どんなことについて聞きたいなとかありますでしょうか 例えば 研究のことに関して など",
+      "translation": " Is there anything you would like to ask me about today? For example, about research.",
+      "confidence": 0.9190230369567871,
+      "final": true
+    },
+    {
+      "timestamp": "2025-07-17T05:48:54.449883",
+      "text": " あの",
+      "translation": " that",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:48:54.652940",
+      "text": " あの今",
+      "translation": " Now",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:48:54.950338",
+      "text": " あの 今これ",
+      "translation": " Um, now this",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:48:55.408600",
+      "text": " あの 今 これ見て",
+      "translation": " Um, look at this now",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:48:55.528935",
+      "text": " あの  今 これ見て",
+      "translation": " Um, look at this now",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:48:55.663188",
+      "text": " あの  今 これ見てもらっ",
+      "translation": " Um, now I want you to see this.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:48:55.778530",
+      "text": " あの  今 これ見てもらって",
+      "translation": " Um, now please take a look at this.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:48:55.894522",
+      "text": " あの  今 これ見てもらっている",
+      "translation": " Um, I'm having you look at this right now.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:48:56.095516",
+      "text": " あの 今  これ見てもらっている",
+      "translation": " Um, I'm having you look at this right now.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:48:56.219981",
+      "text": " あの 今  これ見てもらっているもの",
+      "translation": " Um, this is what you're looking at right now.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:48:56.413721",
+      "text": " あの 今  これ見てもらっているものは",
+      "translation": " What you're looking at right now is",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:48:56.571351",
+      "text": " あの 今 これ見てもらっているものは  あの",
+      "translation": " Umm, what you're looking at right now is, ummm",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:48:56.936409",
+      "text": " あの 今 これ見てもらっているものは あの  リア",
+      "translation": " What you're looking at right now is that Leah",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:48:57.092554",
+      "text": " あの 今 これ見てもらっているものは あの  リアル",
+      "translation": " What you're watching now is the real",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:48:57.240484",
+      "text": " あの 今 これ見てもらっているものは あの  リアルタイム",
+      "translation": " What you're watching now is in real time.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:48:57.423514",
+      "text": " あの 今 これ見てもらっているものは あの  リアルタイム翻訳",
+      "translation": " What you're looking at right now is a real-time translation.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:48:57.729689",
+      "text": " あの 今 これ見てもらっているものは あの  リアルタイム翻訳って",
+      "translation": " What you're looking at right now is a real-time translation.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:48:57.966947",
+      "text": " あの 今 これ見てもらっているものは あの  リアルタイム翻訳って言っ",
+      "translation": " What you're looking at right now is called real-time translation.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:48:58.103746",
+      "text": " あの 今 これ見てもらっているものは あの  リアルタイム翻訳って言って",
+      "translation": " What you're looking at right now is called real-time translation.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:48:58.206488",
+      "text": " あの 今 これ見てもらっているものは あの  リアルタイム翻訳って言ってね",
+      "translation": " What you're looking at right now is called real-time translation.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:48:58.948114",
+      "text": " あの 今 これ見てもらっているものは あの リアルタイム翻訳って言ってね",
+      "translation": " What you're looking at right now is called real-time translation.",
+      "confidence": 0.5726114511489868,
+      "final": true
+    },
+    {
+      "timestamp": "2025-07-17T05:49:01.886836",
+      "text": " その",
+      "translation": " the",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:49:02.130626",
+      "text": " その あの",
+      "translation": " That That",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:49:02.551354",
+      "text": " その  あの",
+      "translation": " That That",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:49:02.728755",
+      "text": " その あの",
+      "translation": " That That",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:49:03.354270",
+      "text": " その あの  L",
+      "translation": " That L",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:49:03.473555",
+      "text": " その あの  LL",
+      "translation": " That LL",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:49:03.588477",
+      "text": " その あの  llm",
+      "translation": " That llm",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:49:03.738501",
+      "text": " その あの  llm の",
+      "translation": " That LLM",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:49:03.843375",
+      "text": " その あの  llm の力",
+      "translation": " The power of that llm",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:49:03.984205",
+      "text": " その あの  llm の力を",
+      "translation": " The power of that LLM",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:49:04.231491",
+      "text": " その あの llm  の力を借り",
+      "translation": " With the help of that LLM",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:49:04.382670",
+      "text": " その あの llm  の力を借りて",
+      "translation": " With the help of that LLM",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:49:04.857014",
+      "text": " その あの llm  の力を借りてこんな",
+      "translation": " With the help of that LLM,",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:49:05.098958",
+      "text": " その あの llm  の力を借りてこんな感じ",
+      "translation": " With the help of that LLM, it looks like this",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:49:05.262715",
+      "text": " その あの llm  の力を借りてこんな感じに",
+      "translation": " With the help of that LLM, it looks like this.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:49:05.764308",
+      "text": " その あの llm の力を借りてこんな感じに",
+      "translation": " With the help of that LLM, it looks like this.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:49:06.187120",
+      "text": " その あの llm  の力を借りてこんな感じにどんどん",
+      "translation": " With the help of that LLM,",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:49:06.612276",
+      "text": " その あの llm  の力を借りてこんな感じにどんどんどんどん",
+      "translation": " With the help of that LLM,",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:49:07.193883",
+      "text": " その あの llm の力を借りてこんな感じにどんどんどんどん",
+      "translation": " With the help of that LLM,",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:49:07.704546",
+      "text": " その あの llm  の力を借りてこんな感じにどんどんどんどんリア",
+      "translation": " With the help of that LLM, the real thing is getting better and better.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:49:07.861630",
+      "text": " その あの llm  の力を借りてこんな感じにどんどんどんどんリアル",
+      "translation": " With the help of that LLM, it's becoming more and more realistic.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:49:07.976154",
+      "text": " その あの llm  の力を借りてこんな感じにどんどんどんどんリアルタイム",
+      "translation": " With the help of that LLM, it's becoming more and more real-time.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:49:08.099664",
+      "text": " その あの llm  の力を借りてこんな感じにどんどんどんどんリアルタイムに",
+      "translation": " With the help of that LLM, things are moving in real time like this.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:49:08.305123",
+      "text": " その あの llm  の力を借りてこんな感じにどんどんどんどんリアルタイムに翻訳",
+      "translation": " With the help of that LLM, we can translate in real time like this.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:49:08.624256",
+      "text": " その あの llm  の力を借りてこんな感じにどんどんどんどんリアルタイムに翻訳を",
+      "translation": " With the help of that LLM, we can translate in real time like this.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:49:08.786432",
+      "text": " その あの llm  の力を借りてこんな感じにどんどんどんどんリアルタイムに翻訳をし",
+      "translation": " With the help of that LLM, I was able to translate more and more in real time like this.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:49:08.885630",
+      "text": " その あの llm  の力を借りてこんな感じにどんどんどんどんリアルタイムに翻訳をして",
+      "translation": " With the help of that LLM, we can translate in real time like this.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:49:09.081365",
+      "text": " その あの llm  の力を借りてこんな感じにどんどんどんどんリアルタイムに翻訳をしていけ",
+      "translation": " With the help of that LLM, you can translate in real time like this.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:49:09.223233",
+      "text": " その あの llm  の力を借りてこんな感じにどんどんどんどんリアルタイムに翻訳をしていけるっていう",
+      "translation": " With the help of LLM, we can translate in real time like this.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:49:10.314413",
+      "text": " その あの llm の力を借りてこんな感じにどんどんどんどんリアルタイムに翻訳をしていけるっていう",
+      "translation": " With the help of LLM, we can translate in real time like this.",
+      "confidence": 0.4742777347564697,
+      "final": true
+    },
+    {
+      "timestamp": "2025-07-17T05:49:11.319746",
+      "text": "もの",
+      "translation": "thing",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:49:11.416839",
+      "text": "ものも",
+      "translation": "Things",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:49:11.846301",
+      "text": "ものもこの",
+      "translation": "This",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:49:12.275650",
+      "text": "ものも  この研究",
+      "translation": "This research",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:49:12.488568",
+      "text": "ものも  この研究室",
+      "translation": "This laboratory",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:49:12.621520",
+      "text": "ものも  この研究室に",
+      "translation": "There are things in this lab.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:49:13.102779",
+      "text": "ものも  この研究室に入っ",
+      "translation": "I also joined this lab.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:49:13.209351",
+      "text": "ものも  この研究室に入ったら",
+      "translation": "If you enter this lab,",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:49:13.768656",
+      "text": "ものも この研究室に入ったら",
+      "translation": "If you enter this lab,",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:49:14.268276",
+      "text": "ものも  この研究室に入ったらすぐ",
+      "translation": "As soon as I entered this lab,",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:49:14.421849",
+      "text": "ものも  この研究室に入ったらすぐに",
+      "translation": "As soon as I entered this lab,",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:49:14.681359",
+      "text": "ものも  この研究室に入ったらすぐに作",
+      "translation": "When you join this lab, you can make things right away.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:49:14.800541",
+      "text": "ものも  この研究室に入ったらすぐに作れる",
+      "translation": "If you join this lab, you can make things right away.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:49:15.033629",
+      "text": "ものも  この研究室に入ったらすぐに作られるように",
+      "translation": "So that things can be made as soon as they enter this lab.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:49:15.147292",
+      "text": "ものも  この研究室に入ったらすぐに作られるようになっ",
+      "translation": "When you join this lab, you will be able to make things right away.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:49:15.257565",
+      "text": "ものも  この研究室に入ったらすぐに作れるようになって",
+      "translation": "When you join this lab, you will be able to make things right away.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:49:15.592817",
+      "text": "ものも  この研究室に入ったらすぐに作れるようになってしま",
+      "translation": "If you join this lab, you will be able to make things right away.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:49:15.707452",
+      "text": "ものも この研究室に入ったらすぐに作れるようになってしまう  って",
+      "translation": "If you join this lab, you'll be able to make things right away.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:49:15.845458",
+      "text": "ものも  この研究室に入ったらすぐに作れるようになってしまうっていうの",
+      "translation": "If you join this lab, you'll be able to make things right away.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:49:16.019239",
+      "text": "ものも  この研究室に入ったらすぐに作れるようになってしまうっていうのが",
+      "translation": "If you join this lab, you will be able to make things right away.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:49:16.495415",
+      "text": "ものも この研究室に入ったらすぐに作れるようになってしまうっていうのが",
+      "translation": "If you join this lab, you will be able to make things right away.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:49:17.235265",
+      "text": "ものも この研究室に入ったらすぐに作れるようになってしまうっていうのが  魅力",
+      "translation": "The appeal of this lab is that you can make things right away.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:49:17.716963",
+      "text": "ものも  この研究室に入ったらすぐに作れるようになってしまうっていうのが魅力的",
+      "translation": "What's attractive about this lab is that you can start making things right away.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:49:17.873371",
+      "text": "ものも  この研究室に入ったらすぐに作れるようになってしまうっていうのが魅力的です",
+      "translation": "What's attractive about this laboratory is that you can start making things right away.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:49:17.986862",
+      "text": "ものも  この研究室に入ったらすぐに作れるようになってしまうっていうのが魅力的ですよ",
+      "translation": "What's attractive about this lab is that you can start making things right away.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:49:18.238797",
+      "text": "ものも  この研究室に入ったらすぐに作れるようになってしまうっていうのが魅力的ですよね",
+      "translation": "What's attractive about this laboratory is that you can start making things right away.",
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T05:49:19.136904",
+      "text": "ものも この研究室に入ったらすぐに作れるようになってしまうっていうのが魅力的ですよね",
+      "translation": "What's attractive about this laboratory is that you can start making things right away.",
+      "confidence": 0.87089604139328,
+      "final": true
+    }
+  ]
+}

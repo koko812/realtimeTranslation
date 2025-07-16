@@ -1,0 +1,389 @@
+{
+  "session_id": "20250717_044523_a330cf2b",
+  "start_time": "2025-07-17T04:45:23.146829",
+  "end_time": "2025-07-17T04:45:41.158957",
+  "language_code": "ja-JP",
+  "audio_bytes": 548550,
+  "chunks": 18285,
+  "audio_file": "../audio/20250717_044523_a330cf2b.wav",
+  "results": [
+    {
+      "timestamp": "2025-07-17T04:45:24.482518",
+      "text": "どう",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:45:24.607600",
+      "text": "どうも",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:45:24.682846",
+      "text": "どうもこんにちは",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:45:25.273488",
+      "text": "どうもこんにちは",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:45:26.518542",
+      "text": "どうもこんにちは",
+      "translation": "Hello everyone",
+      "confidence": 0.9294997453689575,
+      "final": true
+    },
+    {
+      "timestamp": "2025-07-17T04:45:28.558484",
+      "text": " まあ",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:45:28.750306",
+      "text": " まああの",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:45:29.339671",
+      "text": " まああの",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:45:29.459616",
+      "text": " まああの",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:45:29.459790",
+      "text": " 今日",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:45:29.741539",
+      "text": " まああの",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:45:29.741739",
+      "text": " 今日 オープ",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:45:29.832612",
+      "text": " まああの",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:45:29.832790",
+      "text": " 今日オープン",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:45:29.982504",
+      "text": " まああの",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:45:29.982675",
+      "text": " 今日オープンキャン",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:45:30.069437",
+      "text": " まああの",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:45:30.069559",
+      "text": " 今日オープンキャンパ",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:45:30.254069",
+      "text": " まああの",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:45:30.254247",
+      "text": " 今日オープンキャンパス",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:45:30.360403",
+      "text": " まああの",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:45:30.360556",
+      "text": " 今日オープンキャンパス来",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:45:30.461407",
+      "text": " まああの",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:45:30.461641",
+      "text": " 今日オープンキャンパス 来て",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:45:30.555029",
+      "text": " まああの",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:45:30.555272",
+      "text": " 今日オープンキャンパス 来てくれ",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:45:30.568477",
+      "text": " まああの",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:45:30.568611",
+      "text": " 今日オープンキャンパス 来てくれた",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:45:30.655825",
+      "text": " まああの",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:45:30.655941",
+      "text": " 今日オープンキャンパス 来てくれたの",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:45:30.847653",
+      "text": " まああの",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:45:30.847936",
+      "text": " 今日オープンキャンパス 来てくれたのは",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:45:31.033498",
+      "text": " まああの 今日オープンキャンパス",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:45:31.033672",
+      "text": " 来てくれたのは",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:45:31.160740",
+      "text": " まああの 今日オープンキャンパス",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:45:31.160874",
+      "text": " 来てくれたのはすごく",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:45:31.469634",
+      "text": " まああの 今日オープンキャンパス",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:45:31.469818",
+      "text": " 来てくれたのはすごく嬉",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:45:31.550036",
+      "text": " まああの 今日オープンキャンパス",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:45:31.550230",
+      "text": " 来てくれたのはすごく嬉しく",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:45:31.649548",
+      "text": " まああの 今日オープンキャンパス",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:45:31.649740",
+      "text": " 来てくれたのはすごく嬉しくて",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:45:32.725362",
+      "text": " まああの 今日オープンキャンパス 来てくれたのはすごく嬉しくて",
+      "translation": " Well, I was really happy that you came to our open campus today.",
+      "confidence": 0.5710079073905945,
+      "final": true
+    },
+    {
+      "timestamp": "2025-07-17T04:45:33.854277",
+      "text": " なんか",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:45:34.038032",
+      "text": " なんか どんな",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:45:34.241123",
+      "text": " なんか どんなこと",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:45:34.346101",
+      "text": " なんか どんなことを",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:45:34.544643",
+      "text": " なんか どんなことを聞き",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:45:34.564969",
+      "text": " なんか どんなことを聞きたい",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:45:34.661448",
+      "text": " なんか どんなことを聞きたいです",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:45:34.844520",
+      "text": " なんか どんなことを聞きたいですか",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:45:34.939947",
+      "text": " なんか",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:45:34.940102",
+      "text": " どんなことを聞きたいですか",
+      "translation": null,
+      "confidence": null,
+      "final": false
+    },
+    {
+      "timestamp": "2025-07-17T04:45:36.021487",
+      "text": " なんか どんなことを聞きたいですか",
+      "translation": " What kind of thing do you want to ask?",
+      "confidence": 0.9376088380813599,
+      "final": true
+    }
+  ]
+}
